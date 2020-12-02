@@ -1,2 +1,2 @@
 # eShop
-![](onlineShop.gif)
+![](OnlineShopping.gif)
